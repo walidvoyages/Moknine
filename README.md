@@ -1,0 +1,1 @@
+Walid Voyages Moknine — même template que Sfax/Mahdia. Upload index.html et moknine.webp directement à la racine du repository GitHub.
